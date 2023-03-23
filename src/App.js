@@ -12,8 +12,8 @@ function Todo({ todo, index, markTodo, removeTodo }) {
     >
       <span style={{ textDecoration: todo.isDone ? "line-through" : "" }}>{todo.text}</span>
       <div>
-        <Button variant="outline-success" onClick={() => markTodo(index)}>✓</Button>{' '}
-        <Button variant="outline-danger" onClick={() => removeTodo(index)}>✕</Button>
+        <Button variant="outline-success" onClick={() => markTodo(index)}>&#x2714;</Button>{' '}
+        <Button variant="outline-danger" onClick={() => removeTodo(index)}>&#x274C;</Button>
       </div>
     </div>
   );

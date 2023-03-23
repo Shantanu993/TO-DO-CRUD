@@ -1,8 +1,8 @@
 {
-  "name": "todo",
+  "name": "To-Do",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "https://shantanu993.github.io/To-Do-project-using-React/",
+  "private": false,
+  "homepage": "http://shantanu993.github.io/To-Do-project-using-React/",
   
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
