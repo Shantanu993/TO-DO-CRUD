@@ -1,3 +1,7 @@
+# Directly access the website hosted by github pages
+
+https://shantanu993.github.io/To-Do-project-using-React/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

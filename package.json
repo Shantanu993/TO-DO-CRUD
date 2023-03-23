@@ -1,21 +1,20 @@
 {
   "name": "To-Do",
   "version": "0.1.0",
-  "private": false,
-  "homepage": "http://shantanu993.github.io/To-Do-project-using-React/",
-  
+  "private": true,
+  "homepage": "https://shantanu993.github.io/To-Do-project-using-React",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
     "bootstrap": "^4.5.3",
+    "gh-pages": "^5.0.0",
     "react": "^17.0.1",
     "react-bootstrap": "^1.4.0",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.1",
     "web-vitals": "^0.2.4"
   },
-  
   "scripts": {
     "start": "react-scripts --openssl-legacy-provider start",
     "build": "react-scripts --openssl-legacy-provider build",
